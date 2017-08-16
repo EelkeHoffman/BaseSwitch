@@ -1,0 +1,28 @@
+#DecimalID:hover
+{
+    -fx-opacity: 0.9;
+    -fx-scale-x: 1.05;
+    -fx-scale-y: 1.01;
+}
+
+#DecimalID:pressed
+{
+    -fx-border-color: #75B69A;
+    -fx-border-width: 2.7;
+}
+
+#InputTextFieldID
+{
+    
+   /* -fx-background-color: #fff;*/
+    -fx-border-radius:2em 2em 2em 2em;
+    -fx-border-style: solid;
+    -fx-border-width: 2px;
+    
+}
+
+#InputTextFieldID:focused
+{
+    -fx-border-color:#c56994;
+    
+}
